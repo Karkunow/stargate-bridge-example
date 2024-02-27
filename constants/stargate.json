@@ -1,0 +1,11 @@
+{
+    "composer": {
+        "arbitrum-sepolia": "0xb2d85b2484c910A6953D28De5D3B8d204f7DDf15",
+        "bnb-testnet":"0x75D573607f5047C728D3a786BE3Ba33765712875",
+        "sepolia": "0x4febD509277f485A5feB90fb20DC0D3FAe6Bf856" 
+    },
+    "amm": {
+        "bnb-testnet": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+        "sepolia": "0xC532a74256D3Db42D0Bf7a0400fEFDbad7694008"    
+    }
+}
